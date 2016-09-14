@@ -32,4 +32,4 @@ Start entering information about participants one-by-one, you can skip some of t
 4. After signups, you might want to export the list of players into a text file. Use Export button for that.
 
 ## Screenshots
-![Alt text](http://i.imgur.com/AiARbNq.png "TSM options window")
+![Alt text](http://i.imgur.com/5I6sPaV.png "TSM signups window")
